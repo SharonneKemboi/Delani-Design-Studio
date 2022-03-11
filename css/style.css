@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Copse|Delius+Swash+Caps|Gabriela|Unkempt&display=swap');
+
+body{
+    font-family: 'serif', 'Gabriela', 'sans-serif', 'open sans';
+}
+
+
+.logo{
+    background-image: url(../images/backgrounds/h_img.jpg);
+    background-size: cover;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 17%;
+    padding-bottom: 5%;
+
+}
+
+.logo h1{
+    padding: 5px;
+    margin: 10px;
+    font-weight: bolder;
+}
+
+.logo p{
+    padding: 10px;
+}
+
+#img-logo{
+    height: 75px;
+    width: 75px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+#mouse-icon{
+    padding-top : 22px;
+    margin-top: 10%;
+    padding-bottom: 25px; 
+}    
