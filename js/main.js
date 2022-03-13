@@ -1,7 +1,7 @@
 //Add a toggle event for the design.dev and product icons/
 //UI logic//
 $(document).ready(function(){
-    
+
     // design click and toggle event
     $("#design").click(function() {
         $("#design").hide();
@@ -55,5 +55,22 @@ $(document).ready(function(){
         $("." + portfolio.work).mouseout(function(){
             $("." + portfolio.info).hide();
         });
+    });
+
+//form validation
+   
+     $("form#form").submit(function(event){
+         // event.preventDefault();
+        var name = $("input#name").val();
+        var email = $("input#email").val();
+        var message = $("textarea#message").val();
+        
+        if ($("input#name").val() && $("input#email").val()){
+        alert ("Hey " + name + ", we have received your wonderful message. Thank you for reaching out to Delani Studio, We shall get back to you ASAP!!");
+        }
+        else {
+            alert("Please enter your name and email!");
+        }
+          
     });
 });
