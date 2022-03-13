@@ -14,7 +14,7 @@
 
 ## Description
 
-This is a simple landing page for a Design studio that offers a full range of services including brand strategy,interaction and visual design. The main aim of this project is to test and apply Bootstrap, jQuery concepts, DOM manipulation &traversal and general javascript concepts. Here is the live link[ live site]()
+This is a simple landing page for a Design studio that offers a full range of services including brand strategy,interaction and visual design. The main aim of this project is to test and apply Bootstrap, jQuery concepts, DOM manipulation &traversal and general javascript concepts. Here is the live link[ live site](https://sharonnekemboi.github.io/Delani-Design-Studio/)
 
 ## Screenshot
 <img src="https://github.com/SharonneKemboi/Delani-Design-Studio/blob/master/images/delani%20sc.png" width="900px" height="440px">
