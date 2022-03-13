@@ -1,7 +1,7 @@
 //Add a toggle event for the design.dev and product icons/
 
 $(document).ready(function(){
-    // design  event
+    // design click and toggle event
     $("#design").click(function() {
         $("#design").hide();
         $("#mydesign").show();
@@ -11,7 +11,7 @@ $(document).ready(function(){
         $("#design").show();
     });
 
-    // development event
+    // development click and toggle event
     $("#development").click(function() {
         $("#development").hide();
         $("#my-development").show();
@@ -21,7 +21,7 @@ $(document).ready(function(){
         $("#development").show();
     });
 
-    // product event
+    // product click and toggle  event
     $("#product").click(function() {
         $("#product").hide();
         $("#myproduct").show();
