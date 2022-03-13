@@ -55,3 +55,15 @@ body{
     font-weight: 800;
 }
 
+#mydesign {
+    display: none;
+  }
+  
+  #my-development {
+    display: none;
+  }
+  #myproduct{
+  
+    display: none;
+  }
+
