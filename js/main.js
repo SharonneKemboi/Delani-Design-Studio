@@ -1,8 +1,8 @@
-//Add a toggle event for the design.dev and product icons/
+
 //UI logic//
 $(document).ready(function(){
 
-    // design click and toggle event
+    
     $("#design").click(function() {
         $("#design").hide();
         $("#mydesign").show();
@@ -12,7 +12,7 @@ $(document).ready(function(){
         $("#design").show();
     });
 
-    // development click and toggle event
+   
     $("#development").click(function() {
         $("#development").hide();
         $("#my-development").show();
@@ -22,7 +22,7 @@ $(document).ready(function(){
         $("#development").show();
     });
 
-    // product click and toggle  event
+
     $("#product").click(function() {
         $("#product").hide();
         $("#myproduct").show();
@@ -32,7 +32,7 @@ $(document).ready(function(){
         $("#product").show();
     });
 
-    // product event
+    
     $("#product").click(function() {
         $("#product").hide();
         $("#product-1").show();
@@ -43,7 +43,7 @@ $(document).ready(function(){
     });
 
 
-    // "PORTFOLIO" toggle event
+ 
     let portfolios = [{work: "one", info: "work1"}, {work: "two", info: "work2"}, {work: "three", info: "work3"}, {work: "four", info: "work4"}, 
                      {work: "five", info: "work5"}, {work: "six", info: "work6"}, {work: "seven", info: "work7"}, {work: "eight", info: "work8"}];
 
@@ -64,7 +64,7 @@ $(document).ready(function(){
         var name = $("input#name").val();
         var email = $("input#email").val();
         var message = $("textarea#message").val();
-        
+
         if ($("input#name").val() && $("input#email").val()){
         alert ("Hey " + name + ", we have received your wonderful message. Thank you for reaching out to Delani Studio, We shall get back to you ASAP!!");
         }

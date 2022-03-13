@@ -67,14 +67,14 @@ body{
     display: none;
   }
 
-/* Styles the portfolio heading */
+
 #portfolio-heading{
     text-align: center;
     margin-bottom: 20px;
 }
 
 
-/* Black shadow */
+
 .portfolio-images-first > :first-child{
     background-image: url("../images/portfolio/work4.jpg");
     background-repeat: no-repeat;
@@ -88,7 +88,7 @@ body{
 
 }
 
-/* Ontario*/
+
 .portfolio-images-first > :nth-child(2){
     background-image: url("../images/portfolio/work3.jpg");
     background-repeat: no-repeat;
@@ -102,7 +102,7 @@ body{
 
 }
 
-/* Vector */
+
 .portfolio-images-first > :nth-child(3){
     background-image: url("../images/portfolio/work2.jpg");
     background-repeat: no-repeat;
@@ -116,7 +116,7 @@ body{
 
 }
 
-/* Carrey App */
+/
 .portfolio-images-first > :nth-child(4){
     background-image: url("../images/portfolio/work1.jpg");
     background-repeat: no-repeat;
@@ -135,7 +135,7 @@ body{
     margin-top: -50px;
 }
 
-/* Nature*/
+
 .portfolio-images-second > :first-child{
     background-image: url("../images/portfolio/work5.jpg");
     background-repeat: no-repeat;
@@ -149,7 +149,7 @@ body{
 
 }
 
-/* Wordpress Blog */
+
 .portfolio-images-second > :nth-child(2){
     background-image: url("../images/portfolio/work6.jpg");
     background-repeat: no-repeat;
@@ -163,7 +163,7 @@ body{
 
 }
 
-/* Brand Logo */
+
 .portfolio-images-second > :nth-child(3){
     background-image: url("../images/portfolio/work7.jpg");
     background-repeat: no-repeat;
@@ -177,7 +177,7 @@ body{
 
 }
 
-/* Giraffe Cafe */
+
 .portfolio-images-second > :nth-child(4){
     background-image: url("../images/portfolio/work8.jpg");
     background-repeat: no-repeat;
