@@ -43,5 +43,15 @@ body{
 
   #about{
     font-family: 'Gabriela', serif;
+    font-weight: bolder;
+}
+
+.services{
+    background: url("../images/backgrounds/s_image.jpg");
+    background-size: cover;
+    padding: 3%;
+    font-size: large;
+    color: white;
+    font-weight: 800;
 }
 
