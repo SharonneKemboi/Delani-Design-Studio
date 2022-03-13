@@ -14,10 +14,10 @@
 
 ## Description
 
-This is a simple landing page for a Design studio that offers a full range of services including brand strategy,interaction and visual design. The main aim of this project is to test and apply Bootstrap, jQuery concepts, DOM manipulation &traversal and general javascript concepts. Here is the live link[live site]()
+This is a simple landing page for a Design studio that offers a full range of services including brand strategy,interaction and visual design. The main aim of this project is to test and apply Bootstrap, jQuery concepts, DOM manipulation &traversal and general javascript concepts. Here is the live link[ live site]()
 
 ## Screenshot
-<img src=""> width="900px" height="440px">
+<img src="https://github.com/SharonneKemboi/Delani-Design-Studio/blob/master/images/delani%20sc.png"> width="900px" height="440px">
 
 
 ## Setup/Installation Requirements
@@ -57,7 +57,7 @@ The landing page is being hosted by GitHub Pages. The link to the page is:https:
 | Message    | The message from the user.   |
 
 ### Technology & Tools
-* HTML - which was used to develope the structure off the pages.
+* HTML - which was used to develop the structure off the pages.
 
 * CSS - which was used to style the User Interface.
 
@@ -67,8 +67,8 @@ The landing page is being hosted by GitHub Pages. The link to the page is:https:
 
 
 ## Reference
-* [Easy Form Validation With jQuery] (https://code.tutsplus.com/tutorials/easy-form-validation-with-jquery--cms-33096)
-* [jQuery Effects] (https://www.w3schools.com/jquery/jquery_hide_show.asp)
+* [Easy Form Validation With jQuery](https://code.tutsplus.com/tutorials/easy-form-validation-with-jquery--cms-33096)
+* [jQuery Effects](https://www.w3schools.com/jquery/jquery_hide_show.asp)
 
 ## Known Bugs
 * All known bugs were fixed (Bug fixed) . Seen any Bug? Feel free to reach me Asap!!
