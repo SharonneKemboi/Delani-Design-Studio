@@ -209,7 +209,45 @@ body{
     width: 200px;
     height: 150px;
     padding: 20px;
+    color: rgb(17, 228, 34);
+}
+.contacts {
+    background-image: url("../images/backgrounds/c_image.jpg");
+    background-size: cover;
+}
+
+.contacts h1 {
+    position: relative;
+    top: 30px;
+}
+.text{
+    margin-bottom: 20px;
+}
+
+.contact-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.form-control{
+    background-color: #66000000;
     color: white;
+}
+.input{
+    margin-top: 30px;
+}
+.mytext{
+    font-family: "Gabriela", "sans-serif";
+}
+
+
+.social{
+    justify-content:center;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+textarea::placeholder{
+    color: #555151;
 }
 
 
