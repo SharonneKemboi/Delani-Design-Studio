@@ -1,42 +1,47 @@
 @import url('https://fonts.googleapis.com/css?family=Copse|Delius+Swash+Caps|Gabriela|Unkempt&display=swap');
 
-body{
-    font-family: 'serif', 'Gabriela', 'sans-serif', 'open sans';
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Gabriela', 'poppins';
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'sans-serif', 'Gabriela';
+}
+
+.hero{
+   background-image: url("../images/backgrounds/h_img.jpg");  
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: white;
+   padding-top: 20% ;
+  
+}
 
 .logo{
-    background-image: url(../images/backgrounds/h_img.jpg);
-    background-size: cover;
-    color: white;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 3%;
+}
+
+.mouse-click{
+    padding-top: 7%;
+    padding-bottom: 3%;
+}
+.about{
     text-align: center;
-    background-position: center center;
-    background-repeat: no-repeat;
-    padding-top: 17%;
     padding-bottom: 5%;
-
+    padding-top:3%;
+    font-family: 'Gabriela', 'sans-serif', 'serif';
+    font-size: 1.1rem;
 }
 
-.logo h1{
-    padding: 5px;
-    margin: 10px;
-    font-weight: bolder;
+  #about{
+    font-family: 'Gabriela', serif;
 }
 
-.logo p{
-    padding: 10px;
-}
-
-#img-logo{
-    height: 75px;
-    width: 75px;
-    margin-top: 15px;
-    margin-bottom: 30px;
-}
-
-#mouse-icon{
-    padding-top : 22px;
-    margin-top: 10%;
-    padding-bottom: 25px; 
-}    
