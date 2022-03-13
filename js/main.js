@@ -1,6 +1,7 @@
 //Add a toggle event for the design.dev and product icons/
-
+//UI logic//
 $(document).ready(function(){
+    
     // design click and toggle event
     $("#design").click(function() {
         $("#design").hide();
@@ -39,5 +40,20 @@ $(document).ready(function(){
     $("#myproduct").click(function() {
         $("#myproduct").hide();
         $("#product").show();
+    });
+
+
+    // "PORTFOLIO" toggle event
+    let portfolios = [{work: "one", info: "work1"}, {work: "two", info: "work2"}, {work: "three", info: "work3"}, {work: "four", info: "work4"}, 
+                     {work: "five", info: "work5"}, {work: "six", info: "work6"}, {work: "seven", info: "work7"}, {work: "eight", info: "work8"}];
+
+    portfolios.forEach(function(portfolio){
+        $("." + portfolio.work).mouseover(function(){
+            $("." + portfolio.info).show();
+        });
+
+        $("." + portfolio.work).mouseout(function(){
+            $("." + portfolio.info).hide();
+        });
     });
 });
