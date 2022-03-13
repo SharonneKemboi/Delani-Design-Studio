@@ -17,7 +17,7 @@
 This is a simple landing page for a Design studio that offers a full range of services including brand strategy,interaction and visual design. The main aim of this project is to test and apply Bootstrap, jQuery concepts, DOM manipulation &traversal and general javascript concepts. Here is the live link[ live site]()
 
 ## Screenshot
-<img src="https://github.com/SharonneKemboi/Delani-Design-Studio/blob/master/images/delani%20sc.png"> width="900px" height="440px">
+<img src="https://github.com/SharonneKemboi/Delani-Design-Studio/blob/master/images/delani%20sc.png" width="900px" height="440px">
 
 
 ## Setup/Installation Requirements
@@ -38,7 +38,7 @@ Here is the Repository link:https://github.com/SharonneKemboi/Delani-Design-Stud
 To run this program:
 
 ```
-$ Fork the repository from my git hub.
+$ Fork the repository from my git hub.https://github.com/SharonneKemboi/Delani-Design-Studio/blob/master/images/delani%20sc.png
 $ clone the link and paste it on your pc
 $ Clone the project to your local machine.
 $ Run the code from VS Code through a liveserver to chrome browser.
